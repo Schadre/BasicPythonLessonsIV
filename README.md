@@ -1,6 +1,6 @@
 Basic Python Lessons IV
 
-Tasks Today:¶
+Tasks Today:
 1) Creating a Class (Initializing/Declaring)
 2) Using a Class (Instantiating)
      a) Creating One Instance
